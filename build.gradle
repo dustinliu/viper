@@ -17,6 +17,7 @@ repositories {
 
 group = 'com.yahoo.viper'
 description = 'Java library that monitors a list of hostnames and notifies availability changes'
+
 def viperUrl = 'https://github.com/yahoo/viper'
 def viperVcsUrl = 'https://github.com/yahoo/viper.git'
 
